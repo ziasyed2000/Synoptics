@@ -11,7 +11,6 @@ Real time Object detection using the camera to interpret Sign Language and displ
 ---
 
 ## Features
-- [x] Fetching Data using API's.
-- [x] Asynchronous Functions.
-- [x] DOM Manipulation.
-- [x] Search Functionality (based on the currently displayed jobs).
+- [x] Real time object detection.
+- [x] Object tracking window.
+- [x] Detection Certainty Level (0-100).
