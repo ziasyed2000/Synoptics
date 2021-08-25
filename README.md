@@ -14,3 +14,4 @@ Real time Object detection using the camera to interpret Sign Language and displ
 - [x] Real time object detection.
 - [x] Object tracking window.
 - [x] Detection Certainty Level (0-100).
+- [x] AWS S3 Object storage.
