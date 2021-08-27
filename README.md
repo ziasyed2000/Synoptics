@@ -3,7 +3,7 @@
 # Description
 Sign language is distinct from spoken languages and does not have standard written forms. However, the vast majority of communications technologies are designed to support spoken or written languages; which excludes sign languages. Most people do not know sign language and as a result, many communication barriers exist for deaf sign language users. Sign language processing would help break down these barriers for sign language users. We are trying to train a machine learning model on American sign Language recognition. 
 
-This project has real time Object detection using Tensonflow framework and the camera to interpret Sign Language. The interface is created using ReactJS with camera input displaying the video with matching framerate of the display. For object storage I have used AWS S3 and used ReactJS to fetch pre-trained python models.
+This project has real time Object detection using TensonflowJS and the camera to interpret Sign Language. The interface is created using ReactJS with camera input displaying the video with matching framerate of the display. For object storage I have used AWS S3 and used ReactJS to fetch pre-trained python models.
 
 <img src="https://github.com/ziasyed2000/Sign-Language-Detector/blob/main/detection.gif" />
 
