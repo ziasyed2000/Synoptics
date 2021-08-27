@@ -1,5 +1,6 @@
 ## **<h2 align="center">Sign-Language-Detector</h2>**
 Real time Object detection using the camera to interpret Sign Language and display the message on-screen. Pulling Pre-trained object models from AWS S3.
+<img src="https://github.com/ziasyed2000/Sign-Language-Detector/blob/main/detection.gif" align="center" />
 
 ## Technologies used:
 <p align="center">
