@@ -12,7 +12,14 @@ This project has real time Object detection using TensonflowJS and the camera to
 * Developing a Visual Recognition Program/Formula for ASL Gestures and Words.
   * Develop a visual recognition program for people with disabilities to be able to communicate using sign language.  The program should be able to recognize and capture the words.
 
-
+# Installation
+Installation is simple, just download the repo, cd into the "ReactComputerVisionTemplate.main" directory, and run the following commands (in order) to get started:
+```
+npm i
+```
+```
+npm start
+```
 ## Technologies used:
 <p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="70" height="70"/>
