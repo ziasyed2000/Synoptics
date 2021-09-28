@@ -13,7 +13,7 @@ This project has real time Object detection using TensonflowJS and the camera to
   * Develop a visual recognition program for people with disabilities to be able to communicate using sign language.  The program should be able to recognize and capture the words.
 
 # Installation
-Installation is simple, just download the repo, cd into the "ReactComputerVisionTemplate.main" directory, and run the following commands (in order) to get started:
+Installation is simple, just clone the repo, cd into the "ReactComputerVisionTemplate.main" directory, and run the following commands (in order) to get started:
 ```
 npm i
 ```
